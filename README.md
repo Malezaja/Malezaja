@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about data
 - 📫 How to reach me: manuel.zapataj@udea.edu.co
 
-
+https://img.shields.io/github/milestones/all/Malezaja/Malezaja?color=%23F2C811&label=PoweBI&logo=PowerBI
