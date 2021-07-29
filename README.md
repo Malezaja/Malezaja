@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### How to reach me:
 ![Email](https://img.shields.io/badge/-Email:_manuel.zapataj@udea.edu.co-67F0B8?logo=udea&logoColor=67F0B8&style=flat&labelColor=white)<br>
 ![Gmail](https://img.shields.io/badge/-Gmail:_malejoja22@gmail.com-DE5145?logo=gmail&logoColor=DE5145&style=flat&labelColor=white)<br>
-[![Linkedin](https://img.shields.io/badge/-Linkedin:_www.linkedin.com/in/manuel_zapata-0A66C2?logo=linkedin&logoColor=0A66C2&style=flat&labelColor=white)](www.linkedin.com/in/manuel-zapata)<br>
+[![Linkedin](https://img.shields.io/badge/-Linkedin:_www.linkedin.com/in/manuel_zapata-0A66C2?logo=linkedin&logoColor=0A66C2&style=flat&labelColor=white)](https://www.linkedin.com/in/manuel-zapata/)
 
 
 ### Networks:
