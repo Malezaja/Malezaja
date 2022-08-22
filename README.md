@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my job profile
+- 🔭 I’m currently working data analysis
 - 🌱 I’m currently learning Tableu
 - 💬 Ask me about data manuel.zapataj@udea.edu.co
 
