@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### Skills:
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-EDC12F?logo=power-bi&logoColor=EDC12F&style=flat&labelColor=white)<br>
-![RStudio](https://img.shields.io/badge/-RStudio-71A5D4?logo=rstudio&logoColor=71A5D4&style=flat&labelColor=white)<br>
+![SQL](https://img.shields.io/badge/-RStudio-71A5D4?logo=rstudio&logoColor=71A5D4&style=flat&labelColor=white)<br>
 ![Python](https://img.shields.io/badge/-Python-C9057C?logo=python&logoColor=3776AB&style=flat&labelColor=white)<br>
 ![Excel](https://img.shields.io/badge/-Excel-31BE7D?logo=microsoftexcel&logoColor=31BE7D&style=flat&labelColor=white)<br>
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-D62C2A?logo=sqlserver&logoColor=D62C2A&style=flat&labelColor=white)<br>
